@@ -10,4 +10,7 @@ The First Part focuses on creating random data to obtain different cities with t
 ![Image 1. Weather Data Base.](Other_Resources/WeatherDatabase.PNG)
 
 
-The Second Part requires the user to insert the maximum and minimum temperature values to use them as a filter. The filter involves just selecting the cities that are within the temperature range. The next section requires generating a map using “gmaps” to show the user the possible options. Then the user selects four cities and another map is generated to see the complete travel route between those cities and their important info.
+The Second Part requires the user to insert the maximum and minimum temperature values to use them as a filter. The filter involves just selecting the cities that are within the temperature range. The next section requires generating a map using “gmaps” to show the user the possible options. Then the user selects four cities and another map is generated to see the complete travel route between those cities and their important info, as shown in Image 2.
+
+###### Image 2. Travel Map Markers.
+![Image 2. Travel Map Markers.](Other_Resources/WeatherPy_travel_map_markers1.PNG)
